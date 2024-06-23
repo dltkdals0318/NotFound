@@ -1,14 +1,14 @@
 .title {
-    font-size: 600px;
+    font-size: 450px;
     color: #ffffff;
 }
 
 
 
 .subtitle {
-    font-size: 20px;
+    font-size: 30px;
     color: #ffffff;
-    padding-bottom: 50%;
+    padding-bottom: 30%;
     font-family: 'ChosunSm'
 }
 
@@ -62,7 +62,7 @@ body {
 
 #news {
   color: #ffffff;
-  font-size: 25px;
+  font-size: 40px;
   font-family: 'ChosunSm';
   font-weight: bold;
   animation: color-blink 1s infinite;
