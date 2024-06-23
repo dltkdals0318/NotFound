@@ -111,8 +111,8 @@ html{
 #button {
   background:none;
   color:#ffffff;
-  height:40px; 
-  width:130px;
+  height:80px; 
+  width:260px;
   border:none;
   animation: jitter 0.1s infinite;
   font-size: 15pt;
